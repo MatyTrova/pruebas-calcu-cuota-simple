@@ -1,1 +1,2 @@
-# pruebas-calcu-cuota-simple
+# Calculadora-Cuota-Simple
+Calculadora Cuota Simple
